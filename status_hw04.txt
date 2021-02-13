@@ -1,0 +1,38 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Andrew Duffy
+
+2. What hostname did you deploy your app to?
+hw04.duffycs.org
+
+3. What's the URL of your git for this assignment?
+https://github.com/andrew-duffy10/cs4550-hw04
+
+4. How much of the functionality did you complete?
+100%
+
+5. Did you successfully deploy? If not, what's broken?
+No, I worked with Anagha for awhile but we couldn't find the issue.
+When I ./deploy on the server, I get a ** (Mix) The task "release" could not be found error.
+All dependencies/my code compiles without error.
+
+6. How comfortable do you feel with Elixir now?
+I feel discouraged and sad :(
+
+7. Which parts of this assignment did you have trouble with, if any?
+Deployment. I've spent twice as long trying to get a release to compile as I did 
+Coding to no avail.
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
